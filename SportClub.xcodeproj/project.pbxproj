@@ -13,6 +13,7 @@
 		7ACED41825FE0D230022B81C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7ACED41625FE0D230022B81C /* Main.storyboard */; };
 		7ACED41A25FE0D240022B81C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7ACED41925FE0D240022B81C /* Assets.xcassets */; };
 		7ACED41D25FE0D240022B81C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7ACED41B25FE0D240022B81C /* LaunchScreen.storyboard */; };
+		7ACED42625FE83190022B81C /* designedView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7ACED42525FE83190022B81C /* designedView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		7ACED41925FE0D240022B81C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7ACED41C25FE0D240022B81C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		7ACED41E25FE0D240022B81C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7ACED42525FE83190022B81C /* designedView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = designedView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				7ACED41225FE0D230022B81C /* SceneDelegate.swift */,
 				7ACED41425FE0D230022B81C /* ViewController.swift */,
 				7ACED41625FE0D230022B81C /* Main.storyboard */,
+				7ACED42525FE83190022B81C /* designedView.swift */,
 				7ACED41925FE0D240022B81C /* Assets.xcassets */,
 				7ACED41B25FE0D240022B81C /* LaunchScreen.storyboard */,
 				7ACED41E25FE0D240022B81C /* Info.plist */,
@@ -140,6 +143,7 @@
 				7ACED41525FE0D230022B81C /* ViewController.swift in Sources */,
 				7ACED41125FE0D230022B81C /* AppDelegate.swift in Sources */,
 				7ACED41325FE0D230022B81C /* SceneDelegate.swift in Sources */,
+				7ACED42625FE83190022B81C /* designedView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
